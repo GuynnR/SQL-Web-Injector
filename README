@@ -1,0 +1,16 @@
+#############################
+#   http://oraclerealm.com  #
+#                           #
+#   Sqli Inject0r v1.3.3.7  #
+#                           #
+#        ExploitMaker       #
+#                           #
+#############################
+
+This is a web version of a sqli inject0r
+created by ExploitMaker
+
+Requirement 
+
+1) PHP Verison 5.2.3+
+2) Enable file_get_function 
