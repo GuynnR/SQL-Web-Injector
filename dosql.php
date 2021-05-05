@@ -18,7 +18,7 @@ function toggle() {
 
 <?php 
 /*
-*Author : ExploitMaker
+*Author : Ussen
 *version v1.3.3.7
 */
 error_reporting(0);

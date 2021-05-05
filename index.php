@@ -40,7 +40,7 @@
 <br><br><br>
 </font>
 <font color="#FFFFFF">
-SQL Inject0r Hosted by OracleRealm<br>
+...<br>
 
 
 <pre>
